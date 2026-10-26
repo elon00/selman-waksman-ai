@@ -1,0 +1,14 @@
+{
+  "project": "selman-waksman-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "8BVRqYmnGPSRqdMsiZvffK8hz2B8PQV2Q2wGTzPTU9g1",
+  "vault_account": "Bob4oBg2BhvY8Ddfk8HxvDJWQ3iWfSqLa3hEYgCGfuy6",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "41i6NadyByX7RA2Jmtp685LmgCTTYctu934M6q1TUYCg6ApWZDPSm7Ap6i7UH98ZZJbSSpWUcb5h7eQcWmdnTcYw",
+  "account_tx": "4rczJvsSvAY1RXnuNgkv6CHH2UcR1RiqNGhNVaubAzcv9zY3qykDX32MdnR8sh8KDhiBPAe3opXXz4G9TN6qWP5U",
+  "mint_tx": "SMqxMVxcvgNFoC7ySw4pgS27GKj9wiSiSVWgHbXajmkPAu5BX4oZyQXXTRgh9v9194DY11SvtM8oZnmRv2foy49",
+  "solana_explorer_mint": "https://explorer.solana.com/address/8BVRqYmnGPSRqdMsiZvffK8hz2B8PQV2Q2wGTzPTU9g1?cluster=devnet",
+  "timestamp": "2026-10-26 16:57:51 UTC"
+}
